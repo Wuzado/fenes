@@ -1,0 +1,12 @@
+[package]
+name = "fenes"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# NOTE: bitvec's documentation is rather sparse and complicated.
+# Read:
+# * https://ferrilab.github.io/bitvec/
+# * https://myrrlyn.net/crates/bitvec
+# before digging into usage.
+#bitvec = "1"
